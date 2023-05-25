@@ -1,5 +1,5 @@
 """
-Create a virtual environment:
-1. python -m venv py-env
-2. source py-env/bin/activate
+List versions you have installed: pyenv versions
+List python versions you can install: pyenv install --list
+Install Python version (example): pyenv install -v 3.7.2
 """
